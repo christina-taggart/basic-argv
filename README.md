@@ -49,7 +49,9 @@ Save this file as `pig_latin.rb` in your gist.  Remember, you can add multiple f
 
 ###Release 1: ARGV-ify RPN Calculator
 
-Take your RPN calculator script and augment it so you can do the following:
+Create a file `rpn.rb` with your [RPN Calculator from Phase 0](https://socrates.devbootcamp.com/challenges/433).  **Note** this challenge was a bonus for Phase 0, so if you didn't do it originally you can either do it now or use an existing solution from another boot (in the Recent Attempts tab) 
+
+Verify the original RPN Calculator code works and then augment it so you can do the following:
 
 ```text
 $ ruby rpn.rb "3 4 +"
