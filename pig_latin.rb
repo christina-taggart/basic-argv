@@ -11,6 +11,6 @@ def pig_latin_sentence(sentence)
   sentence.join(" ")
 end
 
-#-----ARGV with pig latin)
+#-----ARGV with pig latin-----
 
 puts pig_latin_sentence(ARGV.join(" "))
